@@ -9,7 +9,7 @@ namespace KKB.Online
 {
     internal class Program
     {
-        static string Path = @"C:\Temp\MyData.db";
+        static string Path = @"D:\С#.Courses\data_base\MyData.db";
 
         static void Main(string[] args)
         {
